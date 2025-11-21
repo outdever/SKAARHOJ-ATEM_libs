@@ -1,3 +1,0 @@
-#add a menu entry/divider for the SKAARDUINO boards
-name=SKAARDUINO
-version=1.0
